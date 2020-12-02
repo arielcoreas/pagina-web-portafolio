@@ -1,0 +1,79 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+h1 { 
+	font-size: 100px; 
+	color: #ffffff;
+	line-height: 80px; }
+
+
+h2 { 
+	font-size: 200px; 
+	color: #000000;
+	line-height: 80px;
+	text-align: center; }
+
+h3 { 
+	font-size: 200px; 
+	color: #000000;
+	line-height: 80px;
+	text-align: left; }	
+p {
+	font-size: 25px;
+	color: #ffffff
+	;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+p-2 {
+	font-size: 25px;
+	color: #000000
+	;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+.navbar{
+	background-color: #ffffff;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+	min-height: 100px;
+}
+
+.nav-link {color: #070707; }
+.nav-link:hover {color: #070707; }
+
+.logo-brand {
+	min-width: 180px;
+	max-width: 150px;
+}
+
+.navbar-toggler {font-size: 40px; }
+.navbar-toggler:focus { outline: none; }
+
+
+.content-center {
+	max-width: 800px;
+	margin: 0 auto 60px auto;
+	text-align: center;
+}
+
+.box{
+	background: #aaa;
+	width: 1920px;
+	height: 800px;
+	border: 10px solid #000000;
+	margin-left: auto;
+	margin-right: auto;
+
+	box-shadow: 10px 10px 5px 5px #000000 inset;
+}
+
+col-lg-4 {
+	max-width: 800px;
+	margin: 0 auto 60px auto;
+	text-align: center;
+
+
+
+}
